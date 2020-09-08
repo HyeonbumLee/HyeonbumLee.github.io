@@ -12,13 +12,16 @@ header:
 
 ## Awards
 
+<ul type="square">
 <li>Excellence Award, Academic Seminar, College of Natural Science, Hanyang University, 2019.</li>
 <br>
 <li>CUM LAUDE, Graduate Honors, Hanyang University, 2020.</li>
+</ul>
 
 
 ## Scholarships
 
+<ul type="square">
 <li>CSAT Scholarship (entrance merit-based), Hanyang University, 2015.3~2020.2 (4 years)</li>
 <br>
 <li>National Scholarship, Korea Student Aid Foundation, 2015.3~2020.2 (4 years).</li>
@@ -30,3 +33,4 @@ header:
 <li>Hyung Namjin Scholarship, Hyung Namjin Scholarship Foundation, 2019.3~2020.2</li>
 <br>
 <li>HY-IN Scholarship (entrance merit-based), Hanyang University, 2020.3~2022.2</li>
+</ul>
