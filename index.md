@@ -21,7 +21,7 @@ Familiar with: **Python, PyTorch, Matlab.**
 
 | Language | Level  |
 |----------|--------|
-| Korean   | Fluent |
+| Korean   | Native |
 | English  | Intermediate |
 
 ## Contact
