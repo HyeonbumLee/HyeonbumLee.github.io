@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HBL"
+title                    : "HyeonBumLee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HBL"
+name                     : "HyeonBum Lee"
 description              : "HBL"
-url                      : "https://sunpill.github.io"
+url                      : "https://HyeonBumLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/ksp.jpg
@@ -93,12 +93,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "HBL"
+  name             : "HyeonBum Lee"
   avatar           : "/assets/images/ksp.jpg"
-  bio              : "HBL."
+  bio              : "HyeonBum Lee."
   location         : "South Korea"
-  email            : "ksp0352@gmail.com"
-  github : "Sunpill"
+  email            : "leehb3706@gmail.com"
+  github : "HyeonBumLee"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

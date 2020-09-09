@@ -1,5 +1,5 @@
 ---
-title: "Sunpill Kim"
+title: "HyoenBum Lee"
 layout: single
 classes: wide
 author_profile: true
@@ -26,4 +26,4 @@ Familiar with: **Python, PyTorch, Matlab.**
 
 ## Contact
 
-For any inquires, you can reach me via email: **_[ksp0352@gmail.com](mailto:ksp0352@gmail.com)_**
+For any inquires, you can reach me via email: **_[leehb3706@gmail.com](mailto:leehb3706@gmail.com)_**
