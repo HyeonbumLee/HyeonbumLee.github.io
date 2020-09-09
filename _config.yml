@@ -24,7 +24,7 @@ description              : "HBL"
 url                      : "https://HyeonBumLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/ksp.jpg
+teaser                   : /assets/images/LHB.jpg
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "HyeonBum Lee"
-  avatar           : "/assets/images/ksp.jpg"
+  avatar           : "/assets/images/LHB.jpg"
   bio              : "HyeonBum Lee."
   location         : "South Korea"
   email            : "leehb3706@gmail.com"
