@@ -13,7 +13,7 @@ header:
 ## Awards
 
 <ul type="square">
-<li>UMMA CUM LAUDE, Graduate Honors, Hanyang University, 2020.</li>
+<li>SUMMA CUM LAUDE, Graduate Honors, Hanyang University, 2020.</li>
 </ul>
 
 
