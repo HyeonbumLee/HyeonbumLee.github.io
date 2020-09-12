@@ -13,14 +13,14 @@ header:
 ## Awards
 
 <ul type="square">
-<li>SUMMA CUM LAUDE, Graduate Honors, Hanyang University, 2020.</li>
+<li>SUMMA CUM LAUDE, Graduate Honors, Hanyang University, 2018.</li>
 </ul>
 
 
 ## Scholarships
 
 <ul type="square">
-<li>Career Based Scholarship(Full-ride), Hanyang University, , 2014.3~2018.2</li>
+<li>Career Based Scholarship (Full-ride), Hanyang University.    2014.3~2018.2</li>
 <br>
-<li>Master and Ph.D Program Scholarship(Full-ride), Hanyang University, tuition, 2020.03~</li>
+<li>Master and Ph.D Program Scholarship (Full-ride), Hanyang University.    2020.03~</li>
 </ul>
