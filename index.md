@@ -5,13 +5,13 @@ classes: wide
 author_profile: true
 excerpt: 'Hello World !'
 header:
-  overlay_image: /assets/images/PH.jpg
+  overlay_image: /assets/images/SD.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing master degree in applied mathemathics at same university. From July 2018, I'm member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interests are in cryptography especially zero-knowledge proof. Besides cryptography, I'm interested in artificial intelligence using deep learning such as face recognition and speaker recognition.
+I graduated from Hanyang University, Department of Mathematics and am pursuing master degree in applied mathemathics at same university. From Feb 2020, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interests are in cryptography especially zero-knowledge proof.
 
 ## Programming Skills
 
