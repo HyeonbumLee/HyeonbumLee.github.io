@@ -20,7 +20,7 @@ header:
 ## Scholarships
 
 <ul type="square">
-<li>Career Based Scholarship (Full-ride), Hanyang University.    2014.3~2018.2</li>
+<li>Hanyang Excellent Scientist Scholarship, Hanyang University.    2014.3~2018.2</li>
 <br>
-<li>Master and Ph.D Program Scholarship (Full-ride), Hanyang University.    2020.03~</li>
+<li>Master and Ph.D Program Scholarship, Hanyang University.    2020.03~present</li>
 </ul>
