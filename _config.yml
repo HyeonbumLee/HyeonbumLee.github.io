@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HyeonBumLee"
+title                    : "HyeonbumLee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HyeonBum Lee"
 description              : "HBL"
-url                      : "https://HyeonBumLee.github.io"
+url                      : "https://HyeonbumLee.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"HyeonBumLee/HyeonBumLee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/LHB.jpeg
@@ -93,12 +93,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyeonBum Lee"
+  name             : "Hyeonbum Lee"
   avatar           : "/assets/images/LHB.jpeg"
   bio              : "HyeonBum Lee."
   location         : "South Korea"
   email            : "leehb3706@gmail.com"
-  github : "HyeonBumLee"
+  github : "HyeonbumLee"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
