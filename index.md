@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am a Ph.D. student in applied mathemathics at Hanyang University. I have been a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2021. My main research interests are verifiable computation, zero-knowledge proof and secure multiparty computation.
+I am a Ph.D. student in applied mathemathics at Hanyang University. I have been a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2021. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
 # News
 - (Dec 6, 2021) One paper (**_[Efficient Sum-Check Protocol for Convolution(https://ieeexplore.ieee.org/document/9638642)]_**) published at IEEE Access
