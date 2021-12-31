@@ -12,6 +12,6 @@ header:
 
 ## Publications
 
-Efficient Sum-Check Protocol for Convolution
+**_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_**
 
 IEEE Access, vol. 9, pp. 164047-164059, 2021.
