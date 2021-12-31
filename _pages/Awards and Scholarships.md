@@ -1,5 +1,5 @@
 ---
-title: "Awards and Scholarships"
+title: "CV"
 layout: single
 classes: wide
 author_profile: true
