@@ -1,5 +1,5 @@
 ---
-title: "HyoenBum Lee"
+title: "Hyoenbum Lee"
 layout: single
 classes: wide
 author_profile: true
@@ -15,7 +15,7 @@ I graduated from Hanyang University, Department of Mathematics and am pursuing m
 
 ## Programming Skills
 
-Familiar with: **Python, Matlab, LaTex.**
+Familiar with: **Matlab, LaTex.**
 
 ## Languages
 
@@ -26,4 +26,4 @@ Familiar with: **Python, Matlab, LaTex.**
 
 ## Contact
 
-For any inquires, you can reach me via email: **_[leehb3706@gmail.com](mailto:leehb3706@gmail.com)_**
+For any inquires, you can reach me via email: **_[leehb3706@hanyang.ac.kr](mailto:leehb3706@hanyang.ac.kr)_**
