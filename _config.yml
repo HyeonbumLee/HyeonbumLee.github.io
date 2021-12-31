@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "HyeonbumLee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HyeonBum Lee"
-description              : "HBL"
-url                      : "https://HyeonbumLee.com"
+name                     : "Hyeonbum Lee"
+description              : "Hyeon"
+url                      : "https://HyeonbumLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"HyeonBumLee/HyeonBumLee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/LHB.jpeg
