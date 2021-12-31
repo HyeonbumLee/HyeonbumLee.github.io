@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Hyeonbum Lee"
   avatar           : "/assets/images/LHB.jpeg"
-  bio              : "HyeonBum Lee."
+  bio              : "Hyeonbum Lee."
   location         : "South Korea"
-  email            : "leehb3706@gmail.com"
+  email            : "leehb3706@hanyang.ac.kr"
   github : "HyeonbumLee"
   links:
     - label: "Email"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/HyeonBumLee"
+      #url: "https://github.com/HyeonbumLee"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
