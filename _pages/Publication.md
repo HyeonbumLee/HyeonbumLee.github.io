@@ -12,4 +12,6 @@ header:
 
 ## Publications
 
-Nothing yet... :(
+Efficient Sum-Check Protocol for Convolution
+
+IEEE Access, vol. 9, pp. 164047-164059, 2021.
