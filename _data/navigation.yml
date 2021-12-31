@@ -2,8 +2,8 @@
 main:
   - title: "About me"
     url: https://HyeonbumLee.github.io
-  - title: "Awards and Scholarships"
-    url: /Awards and Scholarships/
+  - title: "CV"
+    url: /CV/
   - title: "Publications"
     url: /Publications/
   # - title: "Sample Collections"
