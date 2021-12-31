@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: https://HyeonbumLee.github.io
   - title: "CV"
-    url: /HyeonbumLee.github.io/assets/images/CV_HyeonbumLee.pdf
+    url: /assets/images/CV_HyeonbumLee.pdf
   - title: "Publications"
     url: /Publications/
   # - title: "Sample Collections"
