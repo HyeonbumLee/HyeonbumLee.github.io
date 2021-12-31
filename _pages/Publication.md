@@ -12,8 +12,6 @@ header:
 
 ## Publications
 
-Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, Jae Hong Seo, and Sungwook Kim,
-
+1. Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, Jae Hong Seo, and Sungwook Kim.
 **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_**
-
 IEEE Access, vol. 9, pp. 164047-164059, 2021.
