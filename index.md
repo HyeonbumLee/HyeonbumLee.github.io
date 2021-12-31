@@ -21,7 +21,7 @@ I am a Ph.D. student in applied mathemathics at Hanyang University. I have been 
 - (Sep 01, 2021) Participate in a new project supported by Samsung Science & Technology Foundation. 
 (Title: "Secure Multi-party Approximate Computation")
 
-- (April 01, 2021) Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
+- (Apr 01, 2021) Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
 (Title: "Study on Crypto Primitives for SNARK")
 
 ## Languages
