@@ -11,11 +11,18 @@ header:
 
 # About me
 
-I graduated from Hanyang University, Department of Mathematics and am pursuing master degree in applied mathemathics at same university. From Feb 2020, I'm a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My main research interests are in cryptography especially zero-knowledge proof.
+I am a Ph.D. student in applied mathemathics at Hanyang University. I have been a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2021. My main research interests are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
-## Programming Skills
+# News
+- (Dec 6, 2021) One paper (**_[Efficient Sum-Check Protocol for Convolution(https://ieeexplore.ieee.org/document/9638642)]_**) published at IEEE Access
 
-Familiar with: **Matlab, LaTex.**
+- (Oct 1, 2021) Receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest.
+
+- (Sep 01, 2021) Participate in a new project supported by Samsung Science & Technology Foundation. 
+(Title: "Secure Multi-party Approximate Computation")
+
+- (April 01, 2021) Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
+(Title: "Study on Crypto Primitives for SNARK")
 
 ## Languages
 
