@@ -20,8 +20,9 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 
 [J1] Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, and Jae Hong Seo.
 **_[Analysis of Zero-Knowledge Protocols for Verifiable Computation and Its Applications](https://www.koreascience.or.kr/article/JAKO202125141268152.pdf)_**
-Journal of The Korea Institute of Information Security \& Cryptology VOL.31, NO.4, Aug. 2020
+Journal of The Korea Institute of Information Security \& Cryptology vol.31, no.4, Aug. 2020
 
 ### Others
 [E1] **_Hyeonbum Lee_**, Jan Hong Seo
 **_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_**
+Cryptology ePrint Archive. 2021/1450
