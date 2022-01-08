@@ -135,9 +135,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-Linkedin"
+      url: "www.linkedin.com/in/hyeonbum-lee-a176b120a"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
