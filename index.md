@@ -1,5 +1,5 @@
 ---
-title: "Hyoenbum Lee"
+title: "Hyeonbum Lee"
 layout: single
 classes: wide
 author_profile: true
