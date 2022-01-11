@@ -27,7 +27,7 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4, Aug. 2020
 
 ### Others
-[E1] **_Hyeonbum Lee_**, Jan Hong Seo
+[E1] **_Hyeonbum Lee_**, Jae Hong Seo
 <br>
 **_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_**
 <br>
