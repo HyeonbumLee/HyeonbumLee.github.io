@@ -14,7 +14,7 @@ header:
 I am a Ph.D. student in applied mathemathics at Hanyang University. I have been a member of Cryptology & Algorithm Lab and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
 # News
-- (Aug 28, 2022) I visit the University of Notre Dame, Indiana, USA for collaorating with Date Security and Privacy lab led by (**_[Prof. Taeho Jung](https://sites.nd.edu/taeho-jung/)_**) until March 1, 2023.
+- (Aug 28, 2022) I visit the University of Notre Dame, Indiana, USA for collaorating with Date Security and Privacy lab led by [Prof. Taeho Jung](https://sites.nd.edu/taeho-jung/) until March 1, 2023.
 
 - (Aug 25, 2022) One paper (Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier) accepted for presentation at the ASIACRYPT 2022.
 
