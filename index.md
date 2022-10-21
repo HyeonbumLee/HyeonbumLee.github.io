@@ -15,7 +15,9 @@ I am a Ph.D. student in applied mathemathics at Hanyang University. I have been 
 
 # News
 - (Sep 27, 2022) The following paper won the grand prize at [National Cryptographic Technology Contest, 2022](https://www.etnews.com/20221020000306).
+
 Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting
+
 Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Women's University), and Jae Hong Seo (C&A Lab, Hanyang University)
 
 - (Aug 28, 2022) I visit the [University of Notre Dame](https://www.nd.edu) as a short-term scholar. I collaborate with the [Data Security and Privacy lab](https://sites.nd.edu/dsp-lab/) in the Department of Computer Science and Engineering at the University of Notre Dame until March 1, 2023.
