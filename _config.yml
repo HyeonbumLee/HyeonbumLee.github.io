@@ -24,7 +24,7 @@ description              : "Hyeon"
 url                      : "https://HyeonbumLee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"HyeonBumLee/HyeonBumLee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/LHB.jpeg
+teaser                   : /assets/images/Hyeonbum Lee_2022.jpeg
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
