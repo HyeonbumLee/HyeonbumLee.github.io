@@ -20,9 +20,9 @@ Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Wo
 
 - (Aug 28, 2022) I visit the [University of Notre Dame](https://www.nd.edu) as a short-term scholar. I collaborate with the [Data Security and Privacy lab](https://sites.nd.edu/dsp-lab/) in the Department of Computer Science and Engineering at the University of Notre Dame until March 1, 2023.
 
-- (Aug 25, 2022) One paper (**_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_**) accepted for presentation at the ASIACRYPT 2022.
+- (Aug 25, 2022) One paper **_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_** accepted for presentation at the ASIACRYPT 2022.
 
-- (Dec 6, 2021) One paper (**_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_**) is published at IEEE Access
+- (Dec 6, 2021) One paper **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_** is published at IEEE Access
 
 - (Oct 1, 2021) Receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest.
 
