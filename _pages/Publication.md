@@ -29,6 +29,6 @@ Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4
 ### Conference
 [C1] Sungwook Kim, **_Hyeonbum Lee_**, Jae Hong Seo [alphabetical order]
 <br>
-**_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_**
+**_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_**
 <br>
 IACR-ASIACRYTPT 2022.
