@@ -18,7 +18,7 @@ I am a Ph.D. student in applied mathemathics at [Hanyang University](https://www
 Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting\
 Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Women's University), and Jae Hong Seo (C&A Lab, Hanyang University)
 
-- (Aug 28, 2022) I visit the [University of Notre Dame](https://www.nd.edu) as a short-term scholar. I collaborate with the [Data Security and Privacy lab](https://sites.nd.edu/dsp-lab/) in the Department of Computer Science and Engineering at the University of Notre Dame until March 1, 2023.
+- (Aug 28, 2022) I visited the [University of Notre Dame](https://www.nd.edu) as a short-term scholar. I collaborated with the [Data Security and Privacy lab](https://sites.nd.edu/dsp-lab/) in the Department of Computer Science and Engineering at the University of Notre Dame until March 1, 2023.
 
 - (Aug 25, 2022) One paper **_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450.pdf)_** accepted for presentation at the ASIACRYPT 2022.
 
