@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am a Ph.D. student in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
+I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
 # News
 - (Sep 27, 2022) I won the grand prize at [National Cryptographic Technology Contest, 2022](https://www.etnews.com/20221020000306).\
