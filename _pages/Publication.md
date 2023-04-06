@@ -34,14 +34,8 @@ Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4
 IACR-ASIACRYTPT 2022.
 
 ### Other
-[E2] **_Hyeonbum Lee_**, Jae Hong Seo.
+[E1] **_Hyeonbum Lee_**, Jae Hong Seo.
 <br>
 **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://eprint.iacr.org/2023/478)_**
 <br>
-
-[E1] Sungwook Kim, **_Hyeonbum Lee_**, Jae Hong Seo. [alphabetical order]
-<br>
-**_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://eprint.iacr.org/2021/1450)_**
-<br>
-Full version of [C1]
 
