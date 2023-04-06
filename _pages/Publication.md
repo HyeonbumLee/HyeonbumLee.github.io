@@ -35,6 +35,7 @@ IACR-ASIACRYTPT 2022.
 
 ### Other
 [E2] **_Hyeonbum Lee_**, Jae Hong Seo.
+<br>
 **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14](https://eprint.iacr.org/2023/478)_**
 <br.
 
