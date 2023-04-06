@@ -27,8 +27,20 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4, Aug. 2020
 
 ### Conference
-[C1] Sungwook Kim, **_Hyeonbum Lee_**, Jae Hong Seo [alphabetical order]
+[C1] Sungwook Kim, **_Hyeonbum Lee_**, Jae Hong Seo. [alphabetical order]
 <br>
 **_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_**
 <br>
 IACR-ASIACRYTPT 2022.
+
+### Other
+[E2] **_Hyeonbum Lee_**, Jae Hong Seo.
+**_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14](https://eprint.iacr.org/2023/478)_**
+<br.
+
+[E1] Sungwook Kim, **_Hyeonbum Lee_**, Jae Hong Seo. [alphabetical order]
+<br>
+**_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14](https://eprint.iacr.org/2021/1450)_**
+<br>
+Full version of [C1]
+
