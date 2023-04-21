@@ -1,5 +1,5 @@
 ---
-title: "Previous"
+title: "Previous Events"
 layout: single
 classes: wide
 author_profile: true
