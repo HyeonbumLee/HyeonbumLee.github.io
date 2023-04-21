@@ -6,7 +6,7 @@ author_profile: true
 permalink: /Publications/
 excerpt: "What doesn't kill me makes me stronger."
 header:
-  overlay_image: /assets/images/Pohang.jpeg
+  overlay_image: /assets/images/Newwork.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
