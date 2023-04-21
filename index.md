@@ -26,16 +26,6 @@ Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Wo
 
 - (Aug 25, 2022) One paper **_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_** accepted for presentation at the ASIACRYPT 2022.
 
-- (Dec 6, 2021) One paper **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_** is published at IEEE Access
-
-- (Oct 1, 2021) Receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest.
-
-- (Sep 01, 2021) Participate in a new project supported by Samsung Science & Technology Foundation. 
-(Title: "Secure Multi-party Approximate Computation")
-
-- (Apr 01, 2021) Participate in a new project supported by Institute for Information and Communications Technology Promotion (IITP). 
-(Title: "Study on Crypto Primitives for SNARK")
-
 ## Languages
 
 | Language | Level  |
