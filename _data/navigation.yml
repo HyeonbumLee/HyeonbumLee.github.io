@@ -7,7 +7,7 @@ main:
   - title: "Publications"
     url: /Publications/
   - title: "Previous"
-  url: /Previous/
+    url: /Previous/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
