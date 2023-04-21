@@ -6,6 +6,8 @@ main:
     url: /assets/images/CV_HyeonbumLee.pdf
   - title: "Publications"
     url: /Publications/
+  - title: "Previous"
+  url: /Previous/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
