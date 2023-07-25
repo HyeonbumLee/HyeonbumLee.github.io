@@ -13,6 +13,11 @@ header:
 ## Publications
 
 ### Journal
+[J3] Sungwook Kim, **_Hyeonbum Lee_**, Gwangwoon Lee, and Jae Hong Seo.
+<br>
+**_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption"]_**
+<br>
+Accepted at IEEE TIFS
 [J2] Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, and Jae Hong Seo, and Sungwook Kim.
 <br>
 **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_**
