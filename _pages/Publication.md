@@ -17,7 +17,7 @@ header:
 <br>
 **_Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption_**
 <br>
-Accepted at IEEE TIFS
+Accepted for Publication on IEEE TIFS
 
 [J2] Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, and Jae Hong Seo, and Sungwook Kim.
 <br>
