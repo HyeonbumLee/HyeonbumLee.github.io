@@ -15,9 +15,9 @@ header:
 ### Journal
 [J3] Sungwook Kim, **_Hyeonbum Lee_**, Gwangwoon Lee, and Jae Hong Seo.
 <br>
-**_Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption_**
+**_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_**
 <br>
-Accepted for Publication on IEEE TIFS
+IEEE TIFS(Early Access)
 
 [J2] Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, and Jae Hong Seo, and Sungwook Kim.
 <br>
