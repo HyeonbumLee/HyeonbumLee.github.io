@@ -16,7 +16,7 @@ I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://w
 # News
 - (Jul 25, 2023) One paper **_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_** has been accepted for publication in IEEE TIFS
   
-- (May 31, 2023) One paper titled **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://eprint.iacr.org/2023/478](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12))_** has been accepted for publication at IWSEC 2023.
+- (May 31, 2023) One paper titled **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_** has been accepted for publication at IWSEC 2023.
 
 - (Mar 3, 2023) I finished visiting program at the [University of Notre Dame](https://www.nd.edu).\
 Duration : Sep, 2022 - Feb, 2023\
