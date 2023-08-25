@@ -34,7 +34,7 @@ Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4
 ### Conference
 [C2] **_Hyeonbum Lee_**, and Jae Hong Seo.
 <br>
-**_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://eprint.iacr.org/2023/478)_**
+**_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_**
 <br>
 IWSEC 2023.
 
