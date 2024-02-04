@@ -15,7 +15,7 @@ I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://w
 
 # News
 - (Feb 1, 2024) One paper has been accepted for publication at IEEE TDSC.\
-Title : **_[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness]_**\
+Title : **_Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness_**\
 Authors : Changhao Chenli, Wenyi Tang, Hyeonbum Lee, and Taeho Jung\
 
 - (Oct 4, 2023) I won the special prize at National Cryptographic Technology Contest, 2023.\
