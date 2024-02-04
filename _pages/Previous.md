@@ -28,7 +28,9 @@ Host : Prof. [Taeho Jung](https://sites.nd.edu/taeho-jung/)
 Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting\
 Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Women's University), and Jae Hong Seo (C&A Lab, Hanyang University)
 
-- (Dec 6, 2021) One paper **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_** is published at IEEE Access
+- (Dec 6, 2021) One paper is published at IEEE Access.\
+Title : **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_**\
+Authors : Chanyang Ju, Hyeonbum Lee, Heewon Chung, Jae Hong Seo, and Sungwook Kim
 
 - (Oct 1, 2021) I won the special prize at National Cryptographic Technology Contest, 2021.\
 Title : Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier\
