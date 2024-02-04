@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-- (Dec 7, 2022) I presented a paper **_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_** at AsiaScript 2022 in Taipei, Taiwan
+- (Dec 7, 2022) I presented a paper **_[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_** at Asiacrypt2022 in Taipei, Taiyan
  
 - (Sep 27, 2022) I won the grand prize at [National Cryptographic Technology Contest, 2022](https://www.etnews.com/20221020000306).\
 Title : Non-Pairing Sublinear Verifiable Zero-Knowledge Arguments in Discrete Logarithm Setting\
