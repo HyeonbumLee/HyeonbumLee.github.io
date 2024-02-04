@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/Chicago_Buildings.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
 - (Mar 3, 2023) I finished visiting program at the [University of Notre Dame](https://www.nd.edu).\
 Duration : Sep, 2022 - Feb, 2023\
 Host : Prof. [Taeho Jung](https://sites.nd.edu/taeho-jung/)
@@ -22,7 +21,9 @@ Participant : Hyeonbum Lee (C&A Lab, Hanyang University), Sungwook Kim (Seoul Wo
 
 - (Dec 6, 2021) One paper **_[Efficient Sum-Check Protocol for Convolution](https://ieeexplore.ieee.org/document/9638642)_** is published at IEEE Access
 
-- (Oct 1, 2021) Receive a Special Prize from Korea Cryptography Forum, due to his paper entitled "Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier" submitted in National Cryptographic Technology Contest.
+- (Oct 1, 2021) I won the special prize at National Cryptographic Technology Contest, 2021.\
+Title : Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier\
+Participant : Hyeonbum Lee (C&A Lab, Hanyang University), and Jae Hong Seo (C&A Lab, Hanyang University)
 
 - (Sep 01, 2021) Participate in a new project supported by Samsung Science & Technology Foundation. 
 (Title: "Secure Multi-party Approximate Computation")
