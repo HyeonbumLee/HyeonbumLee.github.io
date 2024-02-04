@@ -11,7 +11,7 @@ header:
 ---
 
 - (Jul 25, 2023) One paper has been published at IEEE TIFS.\
-Title : **_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_**\
+Title : _[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_\
 Authors : Sungwook Kim, Hyeonbum Lee, Gwangwoon Lee, and Jae Hong Seo
 
 - (May 31, 2023) One paper has been accepted for publication at IWSEC2023.\
