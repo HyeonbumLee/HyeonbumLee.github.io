@@ -9,6 +9,15 @@ header:
   overlay_image: /assets/images/Chicago_Buildings.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
+
+- (Jul 25, 2023) One paper has been published at IEEE TIFS.\
+Title : **_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_**\
+Authors : Sungwook Kim, Hyeonbum Lee, Gwangwoon Lee, and Jae Hong Seo
+
+- (May 31, 2023) One paper has been accepted for publication at IWSEC2023.\
+Title : **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_**\
+Authors : Hyeonbum Lee, and Jae Hong Seo
+
 - (Mar 3, 2023) I finished visiting program at the [University of Notre Dame](https://www.nd.edu).\
 Duration : Sep, 2022 - Feb, 2023\
 Host : Prof. [Taeho Jung](https://sites.nd.edu/taeho-jung/)
