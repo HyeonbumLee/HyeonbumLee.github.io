@@ -16,8 +16,8 @@ About me without research
 I am an amateur marathoner. I have completed two full courses of the marathon in Chuncheon and Seoul, Korea. As a marathoner, I hope to achieve the followings: 
 
 1. Achieving **_Sub3_**(Complete full marathon in less than 3 hours)
-2. Participating the World Major Marathons: Tokyo, Boston, London, Berlin, Chicago, New York, etc...
-3. Participating a marathon with family (future wife, future children, etc...)
+2. Participating in the World Major Marathons: Tokyo, Boston, London, Berlin, Chicago, New York, etc...
+3. Participating in a marathon with family (future wife, future children, etc...)
 
 This is my personal best time:
 
