@@ -22,6 +22,6 @@ I am an amateur marathoner. I have completed two full courses of the marathon in
 This is my personal best time:
 
 10K - 42:46 (Seoul, 2024)\
-Half - 1:36:25(Seoul, 2023)\
-Full - 3:19:59(Seoul, 2024)
+Half - 1:36:25 (Seoul, 2023)\
+Full - 3:19:59 (Seoul, 2024)
 
