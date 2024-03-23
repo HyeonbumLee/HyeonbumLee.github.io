@@ -13,7 +13,7 @@ About me without research
 
 **_Marathoner_**
 
-I am an amateur marathoner. I have completed two full courses of the marathon in Chuncheon and Seoul, Korea. As a marathoner, I hope to achieve the followings: 
+I am an amateur marathoner. I have completed two full courses of the marathon in Chuncheon and Seoul, Korea. As a marathoner, I hope to achieve the following: 
 
 1. Achieving **_Sub3_** (Complete full-marathon in less than 3 hours)
 2. Participating in the World Major Marathons: Tokyo, Boston, London, Berlin, Chicago, New York, etc...
