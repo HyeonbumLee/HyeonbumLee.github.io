@@ -6,7 +6,7 @@ author_profile: true
 permalink: /Personal/
 excerpt: 'It’s not about the legs; it’s about the heart and the mind.'
 header:
-  overlay_image: /assets/images/Chicago_Buildings.jpeg
+  overlay_image: /assets/images/SeoulRun.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 About me without research
