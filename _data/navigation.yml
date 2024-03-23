@@ -8,6 +8,8 @@ main:
     url: /Publications/
   - title: "Previous"
     url: /Previous/
+  - title: "Persnoal"
+    url: /Personal/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
