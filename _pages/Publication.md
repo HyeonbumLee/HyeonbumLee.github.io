@@ -13,11 +13,17 @@ header:
 ## Publications
 
 ### Journal
+[J4] Changhao Chenli, Wenyi Tang,  **_Hyeonbum Lee_**, and Taeho Jung
+<br>
+**_[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492)_**
+<br>
+IEEE TDSC(Early Access).
+
 [J3] Sungwook Kim, **_Hyeonbum Lee_**, Gwangwoon Lee, and Jae Hong Seo.
 <br>
 **_[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)_**
 <br>
-IEEE TIFS(Early Access)
+IEEE TIFS, vol. 18, pp. 5332-5344, 2023.
 
 [J2] Chanyang Ju, **_Hyeonbum Lee_**, Heewon Chung, and Jae Hong Seo, and Sungwook Kim.
 <br>
@@ -44,4 +50,10 @@ IWSEC 2023.
 <br>
 IACR-ASIACRYTPT 2022.
 
+### Others
+[E1]  **_Hyeonbum Lee_**, and Jae Hong Seo.
+<br>
+**_[On the Security of Nova Recursive Proof System](https://eprint.iacr.org/2024/232)_**
+<br>
+IACR-ePrint 2024/232
 
