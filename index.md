@@ -14,7 +14,7 @@ header:
 I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
 # News
-- (Mar 1, 2024) One paper has been accepted as a the poster at IEEE ICBC'24.\
+- (Mar 1, 2024) One paper has been accepted as a poster at IEEE ICBC'24.\
 Title : PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain\
 Authors : Hyeonbum Lee, Kyuhwan Lee, Wenyi Tang, Shankha Shubhra Mukherjee, Jae Hong Seo, and Taeho Jung
 
