@@ -14,7 +14,7 @@ header:
 I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
 
 # News
-- (Apr 19, 2024) I have been selected as a speaker for the submission proposal in the **_[6th ZKProof workshop in Berlin](https://zkproof.org/events/zkproof-6-berlin/)_**.
+- (Apr 19, 2024) I have been selected as a speaker for the submission proposal in the [6th ZKProof workshop in Berlin](https://zkproof.org/events/zkproof-6-berlin/).
 
 - (Mar 1, 2024) One paper has been accepted as a poster at IEEE ICBC'24.\
 Title : PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain\
