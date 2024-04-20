@@ -13,7 +13,7 @@ About me without research
 
 **_Marathoner_**
 
-I am an amateur marathoner. I have completed two full courses of the marathon in Chuncheon and Seoul, Korea. As a marathoner, I hope to achieve the following: 
+I am an amateur marathoner. I have completed three full courses of the marathon in Chuncheon, Gunsan, and Seoul, Korea. As a marathoner, I hope to achieve the following: 
 
 1. Achieving **_Sub3_** (Complete full-marathon in less than 3 hours)
 2. Participating in the World Major Marathons: Tokyo, Boston, London, Berlin, Chicago, New York, etc...
@@ -21,7 +21,7 @@ I am an amateur marathoner. I have completed two full courses of the marathon in
 
 This is my personal best time:
 
-10K - 42:46 (Seoul, 2024)\
+10K - 42:08 (Gunsan, 2024)\
 Half - 1:36:25 (Seoul, 2023)\
 Full - 3:19:59 (Seoul, 2024)
 
