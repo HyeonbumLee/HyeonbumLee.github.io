@@ -24,12 +24,6 @@ Authors : Hyeonbum Lee, Kyuhwan Lee, Wenyi Tang, Shankha Shubhra Mukherjee, Jae 
 Title : Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness\
 Authors : Changhao Chenli, Wenyi Tang, Hyeonbum Lee, and Taeho Jung
 
-- (Oct 4, 2023) I won the special prize at National Cryptographic Technology Contest, 2023.\
-Title : PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain\
-Participant : Hyeonbum Lee, Kyuhwan Lee, Jae Hong Seo, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung
-
-- (Aug 30, 2023) I presented a paper **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_** at IWSEC2023 in Yokohama, Japan.
-
 ## Languages
 
 | Language | Level  |
