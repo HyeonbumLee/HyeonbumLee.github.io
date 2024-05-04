@@ -51,9 +51,14 @@ IWSEC 2023.
 IACR-ASIACRYTPT 2022.
 
 ### Others
+[E2]  **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, Jae Hong Seo.
+<br>
+**_[Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption](https://eprint.iacr.org/2024/616)_**
+<br>
+IACR-ePrint 2024/616
+
 [E1]  **_Hyeonbum Lee_**, and Jae Hong Seo.
 <br>
 **_[On the Security of Nova Recursive Proof System](https://eprint.iacr.org/2024/232)_**
 <br>
 IACR-ePrint 2024/232
-
