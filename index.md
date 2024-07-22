@@ -15,8 +15,8 @@ I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://w
 
 # News
 
-- (Jun 24, 2024) The following project supported by National Research Foundation of Korea (NRF) will begin.
-Title : A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof (PI)
+- (Jun 24, 2024) The following project supported by National Research Foundation of Korea (NRF) will begin.\
+Title : A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof (PI)\
 Duration : Sep 2024 - Aug 2025
 
 - (May 29, 2024) I presented a paper PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain at IEEE ICBC'24 in Dublin, Ireland.
