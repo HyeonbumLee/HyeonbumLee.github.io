@@ -11,11 +11,10 @@ header:
 
 # About me
 
-I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are verifiable computation, zero-knowledge proof and secure multiparty computation.
-
+I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are proof systems including SNARKs, zero-knowledge proof, and secure multiparty computation. Specially, I am actively seeking a cryptographic researcher position starting after August 2025.
 # News
 
-- (Jun 24, 2024) The following project supported by National Research Foundation of Korea (NRF) will begin.\
+- (Sep 1, 2024) The following project supported by National Research Foundation of Korea (NRF) begins.\
 Title : A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof (PI)\
 Duration : Sep 2024 - Aug 2025
 
