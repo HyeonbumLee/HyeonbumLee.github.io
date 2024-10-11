@@ -38,6 +38,12 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4, Aug. 2020
 
 ### Conference
+[C3] **_Hyeonbum Lee_**, Kyuhwan Lee, Wenyi Tang, Shankha Shubhra Mukherjee, Jae Hong Seo, and Taeho Jung.
+<br>
+**_[PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain](https://ieeexplore.ieee.org/document/10634378)_**
+<br>
+IEEE ICBC 2024.
+
 [C2] **_Hyeonbum Lee_**, and Jae Hong Seo.
 <br>
 **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_**
