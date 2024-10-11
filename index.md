@@ -14,6 +14,10 @@ header:
 I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are proof systems including SNARKs, zero-knowledge proof, and secure multiparty computation. Specially, I am actively seeking a cryptographic researcher position starting after August 2025.
 # News
 
+- (Oct 11, 2024) "I won an Excellence Prize at the National Cryptographic Technology Contest, 2024.\
+Title : UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption\
+Participants : **_Hyeonbum Lee_**, Jaehwan Park, Junbeom Hur, Jae Hong Seo, and Doowon Kim
+
 - (Sep 1, 2024) The following project supported by National Research Foundation of Korea (NRF) begins.\
 Title : A Study on Incremetally Verifiable Computation through Zero-Knowledge Proof (PI)\
 Duration : Sep 2024 - Aug 2025
