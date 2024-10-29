@@ -16,7 +16,7 @@ About me without research
 I am an amateur marathoner. I have competed in 10K, Half (21K), and full (42K) races.\
 **[Starva Profile](https://strava.app.link/1Cdw5e3c5Nb)**
 
-This is my personal best time:
+This is my PB records:
 
 10K - 37:52 (Seoul, 2024)\
 Half - 1:23:44 (Seoul, 2023)\
