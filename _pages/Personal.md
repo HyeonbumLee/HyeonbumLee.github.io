@@ -13,15 +13,12 @@ About me without research
 
 **_Marathoner_**
 
-I am an amateur marathoner. I have completed three full courses of the marathon in Chuncheon, Gunsan, and Seoul, Korea. As a marathoner, I hope to achieve the following: 
-
-1. Achieving **_Sub3_** (Complete full-marathon in less than 3 hours)
-2. Participating in the World Major Marathons: Tokyo, Boston, London, Berlin, Chicago, New York, etc...
-3. Participating in a marathon with family (future wife, future children, etc...)
+I am an amateur marathoner. I have competed in 10K, Half (21K), and full (42K) races.\
+**[Starva Profile](https://strava.app.link/1Cdw5e3c5Nb)**
 
 This is my personal best time:
 
 10K - 37:52 (Seoul, 2024)\
-Half - 1:36:25 (Seoul, 2023)\
-Full - 3:19:59 (Seoul, 2024)
+Half - 1:23:44 (Seoul, 2023)\
+Full - 2:59:55 (Chuncheon, 2024)
 
