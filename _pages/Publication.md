@@ -57,7 +57,13 @@ IWSEC 2023.
 IACR-ASIACRYTPT 2022.
 
 ### Others
-[E2]  **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, Jae Hong Seo.
+[E3]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
+<br>
+**_[Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
+<br>
+IACR-ePrint 2024/1879
+
+[E2]  **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
 <br>
 **_[Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption](https://eprint.iacr.org/2024/616)_**
 <br>
