@@ -57,6 +57,12 @@ IWSEC 2023.
 IACR-ASIACRYTPT 2022.
 
 ### Others
+[E4]  Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo, Doowon Kim.
+<br>
+**_[UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption](https://eprint.iacr.org/2024/1983)_**
+<br>
+IACR-ePrint 2024/1983
+
 [E3]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
 <br>
 **_[Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
