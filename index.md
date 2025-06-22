@@ -14,7 +14,7 @@ header:
 I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are proof systems including SNARKs, zero-knowledge proof, and secure multiparty computation.
 
 # News
-- (Jun 22, 2025) One paper has been accepted as a poster at ESORICS'25.\
+- (Jun 22, 2025) One paper has been accepted at ESORICS'25.\
 Title : UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption\
 Authors : Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim
   
