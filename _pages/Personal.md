@@ -18,7 +18,7 @@ I am an amateur marathoner. I have competed in 10K, Half (21K), and full (42K) r
 
 This is my PB records:
 
-10K - 37:52 (Seoul, 2024)\
-Half - 1:23:44 (Seoul, 2023)\
-Full - 2:59:55 (Chuncheon, 2024)
+10K - 37:06 (Seoul, 2025)\
+Half - 1:22:10 (Seoul, 2025)\
+Full - 2:53:56 (Seoul, 2025)
 
