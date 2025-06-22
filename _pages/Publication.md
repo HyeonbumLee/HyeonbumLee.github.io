@@ -17,7 +17,7 @@ header:
 <br>
 **_[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492)_**
 <br>
-IEEE TDSC(Early Access).
+IEEE TDSC, vol. 21, pp. 4827-4842, 2024.
 
 [J3] Sungwook Kim, **_Hyeonbum Lee_**, Gwangwoon Lee, and Jae Hong Seo.
 <br>
@@ -38,6 +38,12 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4, Aug. 2020
 
 ### Conference
+[C4] Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim.
+<br>
+**_[UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption](https://eprint.iacr.org/2024/1983)_**
+<br>
+Accepted by ESORICS 2025
+
 [C3] **_Hyeonbum Lee_**, Kyuhwan Lee, Wenyi Tang, Shankha Shubhra Mukherjee, Jae Hong Seo, and Taeho Jung.
 <br>
 **_[PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain](https://ieeexplore.ieee.org/document/10634378)_**
@@ -57,12 +63,6 @@ IWSEC 2023.
 IACR-ASIACRYTPT 2022.
 
 ### Others
-[E4]  Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo, Doowon Kim.
-<br>
-**_[UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption](https://eprint.iacr.org/2024/1983)_**
-<br>
-IACR-ePrint 2024/1983
-
 [E3]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
 <br>
 **_[Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
