@@ -38,11 +38,17 @@ IEEE Access, vol. 9, pp. 164047-164059, 2021.
 Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4, Aug. 2020
 
 ### Conference
+[C5]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
+<br>
+**_[Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
+<br>
+ACM CCS 2025
+
 [C4] Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim.
 <br>
 **_[UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption](https://eprint.iacr.org/2024/1983)_**
 <br>
-Accepted by ESORICS 2025
+ESORICS 2025
 
 [C3] **_Hyeonbum Lee_**, Kyuhwan Lee, Wenyi Tang, Shankha Shubhra Mukherjee, Jae Hong Seo, and Taeho Jung.
 <br>
@@ -63,11 +69,6 @@ IWSEC 2023.
 IACR-ASIACRYTPT 2022.
 
 ### Others
-[E3]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
-<br>
-**_[Practical Zero-Knowledge PIOP for Public Key and Ciphertext Generation in (Multi-Group) Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
-<br>
-IACR-ePrint 2024/1879
 
 [E2]  **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
 <br>
