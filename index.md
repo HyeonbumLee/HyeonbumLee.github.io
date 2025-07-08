@@ -14,9 +14,13 @@ header:
 I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are proof systems including SNARKs, zero-knowledge proof, and secure multiparty computation.
 
 # News
+- (Jul 03, 2025) One paper has been accepted at ACM CCS'25.\
+Title : Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption\
+Authors : Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
+
 - (Jun 22, 2025) One paper has been accepted at ESORICS'25.\
 Title : UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption\
-Authors : Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim
+Authors : Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim.
   
 - (Nov 5, 2024) I presented a talk titled 'How to Design a Zero-Knowledge Proof System in the Discrete Logarithm Setting' at the Hanyang Mathematics Colloquium in Seoul.
 
