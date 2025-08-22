@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am a Ph.D in applied mathematics at [Hanyang University](https://www.hanyang.ac.kr). I had been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) led by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). I am interested in cryptography schemes and their applications.
+I am a Ph.D in applied mathematics at [Hanyang University](https://www.hanyang.ac.kr). I had been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) led by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). My research interests are constructing secure cryptographic algorithms with their real-world applications.
 
 # News
 - (Sep 01, 2025) I will be joining the [Cryptography & Privacy lab](https://crypto.snu.ac.kr)  at Seoul National University as a postdoctoral researcher under the supervision of [Yongsoo Song](https://yongsoosong.github.io).
