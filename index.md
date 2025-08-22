@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am a Ph.D. candidate in applied mathemathics at [Hanyang University](https://www.hanyang.ac.kr). I have been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) and am advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/) since Feb 2020. I am interested in cryptography and computational theory. More concretely, my main research topics are proof systems including SNARKs, zero-knowledge proof, and secure multiparty computation.
+I am a Ph.D in applied mathematics at [Hanyang University](https://www.hanyang.ac.kr). I had been a member of [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) led by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/). I am interested in cryptography schemes and their applications.
 
 # News
 - (Sep 01, 2025) I will be joining the [Cryptography & Privacy lab](https://crypto.snu.ac.kr)  at Seoul National University as a postdoctoral researcher under the supervision of [Yongsoo Song](https://yongsoosong.github.io).
