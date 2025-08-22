@@ -16,7 +16,7 @@ I am a Ph.D in applied mathematics at [Hanyang University](https://www.hanyang.a
 # News
 - (Sep 01, 2025) I will be joining the [Cryptography & Privacy lab](https://crypto.snu.ac.kr)  at Seoul National University as a postdoctoral researcher under the supervision of [Yongsoo Song](https://yongsoosong.github.io).
 
-- (Aug 21, 2025)I have completed my Ph.D. program. I sincerely appreciate my advisor, Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/), and the members of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io)!
+- (Aug 21, 2025) I have completed my Ph.D. program. I sincerely appreciate my advisor, Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/), and the members of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io)!
 
 - (Jul 03, 2025) One paper has been accepted at ACM CCS'25.\
 Title : Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption\
