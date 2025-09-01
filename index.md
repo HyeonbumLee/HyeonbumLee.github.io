@@ -59,4 +59,4 @@ Authors : Changhao Chenli, Wenyi Tang, Hyeonbum Lee, and Taeho Jung
 
 ## Contact
 
-For any inquires, you can reach me via email: **_[leehb3706@hanyang.ac.kr](mailto:leehb3706@hanyang.ac.kr)_**
+For any inquires, you can reach me via email: **_[leehb3706@gmail.com](mailto:leehb3706@gmail.com)_**
