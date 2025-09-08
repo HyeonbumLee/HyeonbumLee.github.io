@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am a cryptography researcher at Seoul National University. I received my Ph.D. in applied mathematics from Hanyang University, where I was a member of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io). My research interests include constructing secure cryptographic algorithms and their real-world applications.
+I am a cryptography researcher at Seoul National University. I received my Ph.D. in applied mathematics from Hanyang University, where I was a member of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io). My research interests include constructing secure cryptographic algorithms and their real-world applications. 
 
 # News
 - (Sep 01, 2025) I joined the [Cryptography & Privacy lab](https://crypto.snu.ac.kr) at Seoul National University as a postdoctoral researcher under the supervision of [Yongsoo Song](https://yongsoosong.github.io). 
