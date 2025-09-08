@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyeonbum Lee"
   avatar           : "/assets/images/Chicago.JPG"
-  bio              : "Hello, I am a cryptography researcher. My research interests are constructing secure cryptographic algorithms with their real-world applications.
+  bio              : "Hello, I am a cryptography researcher. My research interests are constructing secure cryptographic algorithms with their real-world applications."
   location         : "South Korea"
   email            : "leehb3706@hanyang.ac.kr"
   github : "HyeonbumLee"
