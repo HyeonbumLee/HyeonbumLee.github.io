@@ -46,7 +46,7 @@ ACM CCS 2025
 
 [C4] Jaehwan Park, **_Hyeonbum Lee_**, Junbeom Hur, Jae Hong Seo and Doowon Kim.
 <br>
-**_[UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption](https://eprint.iacr.org/2024/1983)_**
+**_[UTRA: Universal Token Reusability Attack and Token Unforgeable Delegatable Order-Revealing Encryption](https://link.springer.com/chapter/10.1007/978-3-032-07891-9_17)_**
 <br>
 ESORICS 2025
 
