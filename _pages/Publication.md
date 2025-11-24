@@ -40,7 +40,7 @@ Journal of The Korea Institute of Information Security & Cryptology vol.31, no.4
 ### Conference
 [C5]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
 <br>
-**_[Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption](https://eprint.iacr.org/2024/1879)_**
+**_[Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption](https://dl.acm.org/doi/10.1145/3719027.3765229)_**
 <br>
 ACM CCS 2025
 
