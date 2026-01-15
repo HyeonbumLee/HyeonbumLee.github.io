@@ -69,7 +69,7 @@ IEEE ICBC 2024.
 <br>
 IWSEC 2023.
 
-[C1] Sungwook Kim, **_Hyeonbum Lee_**, and Jae Hong Seo. [alphabetical order]
+[C1] Sungwook Kim, **_Hyeonbum Lee_**, and Jae Hong Seo.
 <br>
 **_[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)_**
 <br>
