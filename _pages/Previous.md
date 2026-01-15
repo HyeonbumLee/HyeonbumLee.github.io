@@ -9,10 +9,12 @@ header:
   overlay_image: /assets/images/Chicago_Buildings.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
+  
+- (Nov 5, 2024) I presented a talk titled 'How to Design a Zero-Knowledge Proof System in the Discrete Logarithm Setting' at the Hanyang Mathematics Colloquium in Seoul.
 
-- (Oct 4, 2023) I won the special prize at National Cryptographic Technology Contest, 2023.\
-Title : PrivHChain: Monitoring the Supply Chain of Controlled Substances with Privacy-Preserving Hierarchical Blockchain\
-Participant : Hyeonbum Lee, Kyuhwan Lee, Jae Hong Seo, Wenyi Tang, Shankha Shubhra Mukherjee, and Taeho Jung
+- (Oct 11, 2024) I won an Excellence Prize at the National Cryptographic Technology Contest, 2024.\
+Title : UTRA: Universe Token Reusability Attack and Verifiable Delegatable Order-Revealing Encryption\
+Participants : **_Hyeonbum Lee_**, Jaehwan Park, Junbeom Hur, Jae Hong Seo, and Doowon Kim
 
 - (Aug 30, 2023) I presented a paper **_[TENET : Sublogarithmic Proof, Sublinear Verifier Inner Product Argument without a Trusted Setup](https://link.springer.com/chapter/10.1007/978-3-031-41326-1_12)_** at IWSEC2023 in Yokohama, Japan.
   
