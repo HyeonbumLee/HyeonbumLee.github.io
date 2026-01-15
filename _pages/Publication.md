@@ -13,6 +13,13 @@ header:
 ## Publications
 
 ### Journal
+
+[J5] **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
+<br>
+**_[Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/11353436)_**
+<br>
+IEEE Access, Early Access.
+
 [J4] Changhao Chenli, Wenyi Tang,  **_Hyeonbum Lee_**, and Taeho Jung
 <br>
 **_[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492)_**
@@ -70,11 +77,11 @@ IACR-ASIACRYTPT 2022.
 
 ### Others
 
-[E2]  **_Hyeonbum Lee_**, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
+[E2]  Intak Hwang , **_Hyeonbum Lee_**, Jinyeong Seo, and Yongsoo Song.
 <br>
-**_[Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption](https://eprint.iacr.org/2024/616)_**
+**_[Jindo: Practical Lattice-Based Polynomial Commitment for Zero-Knowledge Arguments](https://eprint.iacr.org/2026/044)_**
 <br>
-IACR-ePrint 2024/616
+IACR-ePrint 2026/044
 
 [E1]  **_Hyeonbum Lee_**, and Jae Hong Seo.
 <br>
