@@ -38,5 +38,5 @@ My research focuses on constructing secure cryptographic algorithms and studying
 
 # Contact
 Institutional~(SNU): [hyeonbumlee@snu.ac.kr](mailto:hyeonbumlee@snu.ac.kr)
-Personal: [leehb3706@gmail.com](mailto:leehb3706@gmail.com).
+<br>Personal: [leehb3706@gmail.com](mailto:leehb3706@gmail.com).
 
