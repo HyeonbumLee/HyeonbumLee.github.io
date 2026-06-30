@@ -5,7 +5,7 @@
 
 # Theme Settings
 minimal_mistakes_skin    : "dark" # base skin; "Dark Ink" custom styles layered on top via _sass/minimal-mistakes/_hb-custom.scss
-
+remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
 # Site Settings
 locale                   : "en-US"
 title                    : "Hyeonbum Lee"
