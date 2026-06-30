@@ -226,3 +226,19 @@ blockquote {
   font-style: italic;
 }
 ::selection { background: rgba(201,164,95,0.3); }
+
+/* ---- About portrait --------------------------------------------------- */
+.hb-portrait {
+  float: right;
+  width: 150px;
+  margin: 0 0 1em 1.4em;
+  border-radius: 8px;
+  border: 1px solid var(--hb-line);
+}
+@media (max-width: 37.5em) {
+  .hb-portrait {
+    float: none;
+    display: block;
+    margin: 0 auto 1.2em;
+  }
+}
