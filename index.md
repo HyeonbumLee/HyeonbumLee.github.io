@@ -18,9 +18,6 @@ My research focuses on constructing secure cryptographic algorithms and studying
 
 - **(Jun 2026)** Selected for the **AI Seoul Tech Research Fellowship** (Seoul Future Foundation).
 
-- **(Jan 2026)** *Jindo: Practical Lattice-Based Polynomial Commitment for Zero-Knowledge Arguments* is available as IACR ePrint 2026/044.
-  <br>Intak Hwang, ***Hyeonbum Lee***, Jinyeong Seo, and Yongsoo Song.
-
 - **(Jan 2026)** One paper accepted at **IEEE Access**.
   <br>*Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption*
   <br>***Hyeonbum Lee***, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
@@ -40,10 +37,6 @@ My research focuses on constructing secure cryptographic algorithms and studying
 [See earlier events &rarr;](/Previous/)
 
 # Contact
+Institutional~(SNU): [hyeonbumlee@snu.ac.kr](mailto:hyeonbumlee@snu.ac.kr)
+Personal: [leehb3706@gmail.com](mailto:leehb3706@gmail.com).
 
-For any inquiries, feel free to email me at [leehb3706@gmail.com](mailto:leehb3706@gmail.com).
-
-| Language | Level        |
-| -------- | ------------ |
-| Korean   | Native       |
-| English  | Intermediate |
