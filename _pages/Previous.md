@@ -1,4 +1,3 @@
-[Previous.md](https://github.com/user-attachments/files/29489716/Previous.md)
 ---
 title: "Previous Events"
 layout: single
