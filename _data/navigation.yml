@@ -1,16 +1,10 @@
 # main links
 main:
-  - title: "About me"
-    url: https://HyeonbumLee.github.io
-  - title: "CV"
-    url: /assets/images/CV_HyeonbumLee.pdf
+  - title: "About"
+    url: /
   - title: "Publications"
     url: /Publications/
-  - title: "Previous"
+  - title: "Events"
     url: /Previous/
-  - title: "Personal"
-    url: /Personal/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "CV"
+    url: /CV_HyeonbumLee-2.pdf
