@@ -8,6 +8,8 @@ permalink: /
 
 # About
 
+<img src="/assets/images/portrait.jpg" alt="Hyeonbum Lee" class="hb-portrait" />
+
 I am a cryptography researcher at Seoul National University, where I am a postdoctoral researcher in the [Cryptography & Privacy Lab](https://crypto.snu.ac.kr) under Professor [Yongsoo Song](https://yongsoosong.github.io). I received my Ph.D. in applied mathematics from Hanyang University, where I was a member of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/).
 
 My research focuses on constructing secure cryptographic algorithms and studying their real-world applications — zero-knowledge proofs, proof systems, inner product arguments, and homomorphic encryption. See [Publications](/Publications/) for the full list.
