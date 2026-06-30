@@ -1,4 +1,3 @@
-[Publication.md](https://github.com/user-attachments/files/29489704/Publication.md)
 ---
 title: "Publications"
 layout: single
