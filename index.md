@@ -1,4 +1,3 @@
-[index.md](https://github.com/user-attachments/files/29489701/index.md)
 ---
 title: "Hyeonbum Lee"
 layout: single
