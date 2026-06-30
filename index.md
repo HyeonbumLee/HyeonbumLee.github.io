@@ -24,9 +24,6 @@ for the full list.
 
 - **(Jun 2026)** Selected for the **AI Seoul Tech Research Fellowship** (Seoul Future Foundation).
 
-- **(Jan 2026)** *Jindo: Practical Lattice-Based Polynomial Commitment for Zero-Knowledge Arguments* is available as IACR ePrint 2026/044.
-  <br>Intak Hwang, ***Hyeonbum Lee***, Jinyeong Seo, and Yongsoo Song.
-
 - **(Jan 2026)** One paper accepted at **IEEE Access**.
   <br>*Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption*
   <br>***Hyeonbum Lee***, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
