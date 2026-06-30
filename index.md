@@ -8,7 +8,7 @@ permalink: /
 
 # About
 
-<img src="/assets/images/portrait.jpg" alt="Hyeonbum Lee" class="hb-portrait" />
+<img src="/assets/images/HyeonbumLee_2022.jpg" alt="Hyeonbum Lee" class="hb-portrait" />
 
 I am a cryptography researcher at Seoul National University, where I am a postdoctoral researcher in the [Cryptography & Privacy Lab](https://crypto.snu.ac.kr) under Professor [Yongsoo Song](https://yongsoosong.github.io). I received my Ph.D. in applied mathematics from Hanyang University, where I was a member of the [Cryptology & Algorithm Lab](https://cryptology-algorithm-lab.github.io) advised by Professor [Jae Hong Seo](https://sites.google.com/site/jhsbhs/).
 
