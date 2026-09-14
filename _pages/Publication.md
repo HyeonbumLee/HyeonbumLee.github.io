@@ -7,10 +7,13 @@ permalink: /Publications/
 ---
 
 ## Journal
+[J6] Wenyi Tang, ***Hyeonbum Lee***, Changhao Chenli, Yanchen Liu, Jae Hong Seo, and Taeho Jung,
+<br>***[Trac2ZChain: Trackability and Traceability of Graph Data in Blockchain with Linkage Privacy](https://dl.acm.org/doi/10.1145/3845805)***
+<br>Distributed Ledger Technologies: Research and Practice, Just Accepted, 2026.
 
 [J5] ***Hyeonbum Lee***, Seunghun Paik, Hyunjung Son, and Jae Hong Seo.
 <br>***[Cougar: Cubic Root Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/11353436)***
-<br>IEEE Access, Early Access.
+<br>IEEE Access, VOL.14, pp.10217-10244, 2026.
 
 [J4] Changhao Chenli, Wenyi Tang, ***Hyeonbum Lee***, and Taeho Jung.
 <br>***[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492)***
