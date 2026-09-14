@@ -16,6 +16,12 @@ My research focuses on constructing secure cryptographic algorithms and studying
 
 # News
 
+
+
+- **(Sep 2026)** One paper accepted at **Distributed Ledger Technologies: Research and Practice**.
+  <br>*Trac2ZChain: Trackability and Traceability of Graph Data in Blockchain with Linkage Privacy*
+  <br>Wenyi Tang, ***Hyeonbum Lee***, Changhao Chenli, Yanchen Liu, Jae Hong Seo, and Taeho Jung.
+- 
 - **(Jun 2026)** Selected for the **AI Seoul Tech Research Fellowship** (Seoul Future Foundation).
 
 - **(Jan 2026)** One paper accepted at **IEEE Access**.
