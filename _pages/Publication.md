@@ -20,7 +20,7 @@ permalink: /Publications/
 <br>IEEE TDSC, vol. 21, pp. 4827–4842, 2024.
 
 [J3] Sungwook Kim, ***Hyeonbum Lee***, Gwangwoon Lee, and Jae Hong Seo.
-<br>***[Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)***
+<br>***[Leopard: Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)***
 <br>IEEE TIFS, vol. 18, pp. 5332–5344, 2023.
 
 [J2] Chanyang Ju, ***Hyeonbum Lee***, Heewon Chung, Jae Hong Seo, and Sungwook Kim.
@@ -50,7 +50,7 @@ permalink: /Publications/
 <br>IWSEC 2023.
 
 [C1] Sungwook Kim, ***Hyeonbum Lee***, and Jae Hong Seo.
-<br>***[Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)***
+<br>***[Efficient Zero-Knowledge Arguments in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_14)***
 <br>IACR ASIACRYPT 2022.
 
 ## Preprints
