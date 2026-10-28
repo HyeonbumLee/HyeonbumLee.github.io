@@ -56,9 +56,9 @@ permalink: /Publications/
 ## Preprints
 
 [E2] Intak Hwang, ***Hyeonbum Lee***, Jinyeong Seo, and Yongsoo Song.
-<br>***[Jindo: Practical Lattice-Based Polynomial Commitment for Zero-Knowledge Arguments](https://eprint.iacr.org/2026/044)***
+<br>***[Jindo: Practical Lattice-Based Polynomial Commitments for Client-Side Proving](https://eprint.iacr.org/2026/044)***
 <br>IACR ePrint 2026/044.
 
 [E1] ***Hyeonbum Lee*** and Jae Hong Seo.
-<br>***[On the Security of Nova Recursive Proof System](https://eprint.iacr.org/2024/232)***
+<br>***[On the Security of Nova Recursive Proof System: Limitations of and Alternatives to Bounded-Depth Analysis](https://eprint.iacr.org/2024/232)***
 <br>IACR ePrint 2024/232.
