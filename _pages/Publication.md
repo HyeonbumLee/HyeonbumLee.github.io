@@ -19,7 +19,7 @@ permalink: /Publications/
 <br>***[Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness](https://ieeexplore.ieee.org/document/10420492)***
 <br>IEEE TDSC, vol. 21, pp. 4827–4842, 2024.
 
-[J3] Sungwook Kim, ***Hyeonbum Lee***, Gwangwoon Lee, and Jae Hong Seo.
+[J3] Sungwook Kim, Gwangwoon Lee, ***Hyeonbum Lee***, and Jae Hong Seo.
 <br>***[Leopard: Sublinear Verifier Inner Product Argument under Discrete Logarithm Assumption](https://ieeexplore.ieee.org/document/10198341)***
 <br>IEEE TIFS, vol. 18, pp. 5332–5344, 2023.
 
